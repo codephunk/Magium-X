@@ -1,7 +1,7 @@
 {
-  "name" : "magium/magento",
+  "name" : "codephunk/magium-x",
   "type": "library",
-  "description": "Magento-based functionality for the Magium test library",
+  "description": "Magento-based functionality for the Magium test library. Forked from magium/MagiumMagento",
   "keywords": ["magento", "selenium", "webdriver", "testing"],
   "homepage": "http://www.magiumlib.com/",
   "license": "ASL-2.0",
