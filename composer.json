@@ -32,7 +32,7 @@
   "autoload" : {
     "psr-4" : {
       "Magium\\" : "lib/",
-      "Tests\\Magium\\" : "tests/"
+      "Tests\\Magium\\" : "tests/",
       "Tests\\Magium\\Magento\\" : "tests/Magento",
       "Tests\\Magium\\Magento18\\" : "tests/Magento18",
       "Tests\\Magium\\MagentoEE112\\" : "tests/MagentoEE112",
