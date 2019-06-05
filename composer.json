@@ -10,7 +10,13 @@
       "name": "Kevin Schroeder",
       "email": "kschroeder@mirageworks.com",
       "homepage": "http://magiumlib.com/",
-      "role": "Developer"
+      "role": "Original Developer"
+    },
+    {
+      "name": "Elias Erckens",
+      "email": "info@eliaserckens.de",
+      "homepage": "http://www.eliaserckens.de/",
+      "role": "Fork Developer"
     }
   ],
   "require" : {
